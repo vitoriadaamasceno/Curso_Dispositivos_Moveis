@@ -6,13 +6,6 @@ Metodo de Avaliação  - Classroom
 - Exercicios em Dart
 - Exercicio em Flutter
 - Aplicativo de Interação em grupo
-
-## Introdução
-
-### Desing
-
-Tipos de desing :
-
-1- 
+ 
 
 
