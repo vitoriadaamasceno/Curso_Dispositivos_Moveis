@@ -1,2 +1,18 @@
-# Curso_Dispositivos_Moveis
-Parte teorica do curso de Dispositivos Moveis UFBA
+# Curso de Desenvolvimento de Aplicativos  Moveis - Flutter
+
+Duração : 03/07 a 27/07
+
+Metodo de Avaliação  - Classroom
+- Exercicios em Dart
+- Exercicio em Flutter
+- Aplicativo de Interação em grupo
+
+## Introdução
+
+### Desing
+
+Tipos de desing :
+
+1- 
+
+
